@@ -1,0 +1,166 @@
+body{
+    background-image: url(Bahamas/Waves.jpeg);
+}
+.TitleText{
+    position:absolute; 
+    top: 35%; 
+    left:50%; 
+    font-size: 40px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(70, 253, 79);
+    color: rgb(255, 255, 255);
+}
+.TitlePart img{
+    max-width: 50%;
+    max-height: 50%;
+  
+}
+.BahamaEntry{
+    font-size: 25px;
+    font-family: 'Sofia', cursive;
+    color: black;
+    background-color: rgb(206, 253, 136);
+
+}
+.ClimateInBahamas img{
+    max-width: 10%;
+    max-height: 10%;
+    border-color: black;
+    border-style: double;
+    
+}
+.ClimateInBahamas-Details{
+    border-color: rgb(21, 151, 19);
+    border-style: dotted;
+    position: absolute;
+    top:90%; 
+    left:11%; 
+    background-color: rgb(219, 248, 168);
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+.BahamaCrisis img{
+   
+    display: block;
+        margin-left: 10%;
+        margin-right: 15%;
+    max-width: 20%;
+    max-height: 20%;
+    border-color: black;
+    border-style: double;
+}
+.BahamaCrisis-Details{
+    font-family: 'Quicksand', sans-serif;
+    border-color: rgb(9, 138, 67);
+    background-color: rgb(219, 248, 168);
+    border-style: dotted;
+    position: absolute;
+    top:125%; 
+    left:31%
+    
+    
+    
+}
+.FloodStruggles img{
+    margin-left:35%;
+    top:15%;
+    max-width: 25%;
+    max-height: 25%;
+}
+.FloodStruggles-Details{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    border-color: rgb(192, 0, 150);
+    border-style: groove;
+    border-width: 5px;
+    width: 400px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: 37%;
+    background-color: rgb(250, 179, 191)
+    
+}
+hr.Line{
+  border-top: 9px solid #0a2403;
+  border-radius: 5px;
+  max-width: 40%;
+  max-height:20%;
+
+}
+.Drought img{
+    margin-left:35%;
+    top:15%;
+    max-width: 25%;
+    max-height: 25%;
+}
+.Drought-Details{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    border-color: rgb(192, 0, 150);
+    border-style: groove;
+    border-width: 5px;
+    width: 400px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: 37%;
+    background-color: rgb(250, 179, 191)
+
+}
+.FoodInsecurities img{
+    margin-left:35%;
+    top:15%;
+    max-width: 25%;
+    max-height: 25%;
+}
+.FoodInsecurities-Details{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    border-color: rgb(192, 0, 150);
+    border-style: groove;
+    border-width: 5px;
+    width: 400px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: 37%;
+    background-color:rgb(250, 179, 191)
+}
+hr.Dotted{
+    border-top: 3px dotted #021d03;
+}
+header{
+
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Sofia', cursive;
+    color: rgb(10, 0, 0);
+    background-color: aquamarine;
+    
+   
+}
+.Technology img{
+    margin-left:35%;
+    top:15%;
+    max-width: 25%;
+    max-height: 25%;
+}
+.Technology-Details{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    background-color: rgb(133, 206, 255);
+}
+.End{
+   
+    color: aliceblue;
+    background-color: #021d03;
+    max-width: 10%;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+
+
+
+
+
+
